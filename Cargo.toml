@@ -11,8 +11,7 @@ keywords = [
     "testing",
     "data-test",
     "data-driven",
-    "permutation",
-    "combinatorics"]
+    "permutation"]
 categories = ["development-tools::testing"]
 
 [dependencies]
