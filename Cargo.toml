@@ -2,5 +2,17 @@
 name = "combination_tests"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/psycodesis/combination_tests"
+license = "MPL-2.0"
+description = "Rust macro for generating tests by permutations"
+authors = ["Mariusz Zacirka"]
+keywords = [
+    "test",
+    "testing",
+    "data-test",
+    "data-driven",
+    "permutation",
+    "combinatorics"]
+categories = ["development-tools::testing"]
 
 [dependencies]
